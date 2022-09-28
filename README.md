@@ -4,27 +4,27 @@
 
 Frontend Learning Path:
 
-✅ HTML
-✅ CSS
-✅ SCSS / Sass
-❌ PostCSS
-✅ JavaScript
-✅ Vue
-❌ React
-❌ Angular
-❌ Svelte
-✅ Git
-✅ Web Security
-✅ NPM
-❌ Yarn
-✅ GitHub & GitLab
-✅ Vite
-✅ Linters & Formatters
-✅ Bootstrap
-❌ Bulma
-❌ Tailwind
-✅ TypeScript
-❌ Server Side
+- ✅ HTML
+- ✅ CSS
+- ✅ SCSS / Sass
+- ❌ PostCSS
+- ✅ JavaScript
+- ✅ Vue
+- ❌ React
+- ❌ Angular
+- ❌ Svelte
+- ✅ Git
+- ✅ Web Security
+- ✅ NPM
+- ❌ Yarn
+- ✅ GitHub & GitLab
+- ✅ Vite
+- ✅ Linters & Formatters
+- ✅ Bootstrap
+- ❌ Bulma
+- ❌ Tailwind
+- ✅ TypeScript
+- ❌ Server Side
 
 
 <!---
